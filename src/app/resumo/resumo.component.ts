@@ -27,7 +27,7 @@ export class ResumoComponent implements OnInit {
      faturamento : {
        anterior : {
          valor : 100000,
-         comparativo : 19
+         comparativo : -10
        },
        previsao : {
          valor : 90000,
